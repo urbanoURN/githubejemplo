@@ -1,2 +1,1 @@
-#este es el repositorio local de git
-#Autor URBANO
+#ejemplo de interacion con repositorio en github
